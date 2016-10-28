@@ -8,7 +8,7 @@ import (
 	"strings"
 	"unicode"
 	"unicode/utf8"
-	"github.com/valyala/fasthttp"
+	"github.com/rvuzov/fasthttp"
 )
 
 func min(a, b int) int {

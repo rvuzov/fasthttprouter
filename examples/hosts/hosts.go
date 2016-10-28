@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/buaazp/fasthttprouter"
-	"github.com/valyala/fasthttp"
+	"github.com/rvuzov/fasthttp"
 )
 
 // Index is the index handler
